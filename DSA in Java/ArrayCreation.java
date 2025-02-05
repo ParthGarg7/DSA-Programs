@@ -76,6 +76,8 @@ public class ArrayCreation
           System.out.print(x + " ");
         System.out.println("");
 
+       //printing array 
+       System.out.println("Array 7: " + Arrays.toString(Array7));
        
     }
 }
